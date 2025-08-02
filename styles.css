@@ -1,0 +1,48 @@
+body {
+    font-family: 'Google Sans Code', sans-serif;
+    background-color: #21252b;
+    color: #e2e2e2;
+    margin: 0;
+    padding: 20px;
+    font-size: 1em;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    border-bottom-color: #1c2025;
+    border-style: solid;
+    border-width: 0 0 5px 0;
+}
+
+header nav ul {
+    display: flex;
+    gap: 20px;
+}
+
+
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+a {
+    text-decoration: none;
+    color: rgb(0, 217, 33);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #3f663c;
+}
+
+.mini-comments {
+    font-weight: lighter;
+    font-size: x-small;
+}
