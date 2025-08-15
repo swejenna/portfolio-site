@@ -133,7 +133,7 @@ h1, h2 {
     .projects-list,
     .logos-list {
         flex-direction: column;
-        gap: 15px;
+        gap: 30px;
         align-items: stretch;
         width: 80%;
     }
