@@ -70,8 +70,8 @@ h1, h2 {
 }
 
 #profile-pic {
-    width: inherit;
-    height: inherit;
+    width: 200px;
+    height: 200px;
     border-radius: 15px;
 }
 
