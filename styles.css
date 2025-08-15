@@ -70,12 +70,12 @@ h1, h2 {
 }
 
 #gh-logo, #li-logo {
-    width: 100px;
-    height: 100px;
+    max-width: 100px;
+    max-height: 100px;
 }
 #hs-logo {
-    width: 125px;
-    height: 125px;
+    max-width: 125px;
+    max-height: 125px;
 }
 #gh-logo:hover, #li-logo:hover, #hs-logo:hover {
     transform: scale(1.3);
